@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FUTURE_FS_01/static/css/main.2de7b880.css",
-    "main.js": "/FUTURE_FS_01/static/js/main.d4088c48.js",
+    "main.js": "/FUTURE_FS_01/static/js/main.15c89c96.js",
     "static/js/453.419a5d54.chunk.js": "/FUTURE_FS_01/static/js/453.419a5d54.chunk.js",
     "static/media/coder.png": "/FUTURE_FS_01/static/media/coder.0ff28d5053b4cfa37b93.png",
     "static/media/guess_number.png": "/FUTURE_FS_01/static/media/guess_number.9e69476997876b8bf623.png",
@@ -17,11 +17,11 @@
     "static/media/mongodb.svg": "/FUTURE_FS_01/static/media/mongodb.d930c2c4198d1000c2fb8b7d3177a44c.svg",
     "static/media/css.svg": "/FUTURE_FS_01/static/media/css.5d92dadd9310f8ea8f9a9dd6798cf325.svg",
     "main.2de7b880.css.map": "/FUTURE_FS_01/static/css/main.2de7b880.css.map",
-    "main.d4088c48.js.map": "/FUTURE_FS_01/static/js/main.d4088c48.js.map",
+    "main.15c89c96.js.map": "/FUTURE_FS_01/static/js/main.15c89c96.js.map",
     "453.419a5d54.chunk.js.map": "/FUTURE_FS_01/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2de7b880.css",
-    "static/js/main.d4088c48.js"
+    "static/js/main.15c89c96.js"
   ]
 }
