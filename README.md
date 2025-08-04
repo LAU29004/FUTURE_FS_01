@@ -4,15 +4,14 @@ Frontend is built with React and hosted on GitHub Pages.
 The backend (optional for features like contact forms) is deployed on Render.
 
 🚀 Live Demo
-FrontEnd:
-BackEnd: 
+FrontEnd: https://lau29004.github.io/LAUKIK_PORTFOLIO/
 
 🛠️ Tech Stack
 Frontend: React, HTML, CSS, JavaScript
 
-Backend (optional): Node.js, Express (hosted on Render)
+Backend: Node.js, Express 
 
-Deployment: GitHub Pages (Frontend), Render (Backend)
+Deployment: GitHub Pages (Frontend)
 
 📁 Folder Structure
 pgsql
